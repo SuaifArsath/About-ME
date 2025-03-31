@@ -35,3 +35,5 @@ Here are a few projects and tutorials I am working on:
 
  
 -[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9B2D20&color=E74C3C)](mailto:suaifarsath123@gmail.com)
+
+✨ _"Learning never exhausts the mind."_ – Leonardo da Vinci  
