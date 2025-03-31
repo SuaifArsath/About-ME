@@ -9,9 +9,10 @@ Hi, I'm **Mohamed Suaif Arsath**, an Electronics hobbyist, hardware design, and 
 ---
 
 ## 🛠️ Skills  
-- **Electronics Fundamentals** 
-- **PCB Design Tools:** Altium Designer
+- **Electronics Fundamentals**
 - **Basics of Digital Electronics** 
+- **PCB Design Tools:** Altium Designer
+
 
 ---
 
