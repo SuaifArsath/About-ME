@@ -19,7 +19,7 @@ Hi, I'm **Mohamed Suaif Arsath**, an Electronics hobbyist, hardware design, and 
 
 ## 🚀 Projects  
 Here are a few projects and tutorials I am working on:  
-1. **i.MX RT1020 Evaluation Kit(PCB Project)**  
+1. **i.MX RT1020 Evaluation Kit**  
    - Designed a NXP MIMXRT1020-EVK in Altium Designer.  
    - Exploring Library management, Schematic optimization, layout optimization, and trace routing.
    - **Processor** - MIMXRT1021DAG5A processor.
