@@ -19,10 +19,15 @@ Hi, I'm **Mohamed Suaif Arsath**, an Electronics hobbyist, hardware design, and 
 
 ## 🚀 Projects  
 Here are a few projects and tutorials I am working on:  
-1. **DC-to-DC Converter Design (PCB Project)**  
-   - Designing a PCB for a DC-to-DC converter in Altium Designer.  
-   - Exploring component selection, layout optimization, and testing.  
-
+1. **i.MX RT1020 Evaluation Kit(PCB Project)**  
+   - Designed a NXP MIMXRT1020-EVK in Altium Designer.  
+   - Exploring Library management, Schematic optimization, layout optimization, and trace routing.
+   - **Processor** - MIMXRT1021DAG5A processor.
+   - **Connectivity** - Micro USB Conn, Ethernet Conn, CAN transceivers.
+2. **ESP 32 Board**
+   - Designed a ESP 32 Board in Altium Designer.
+   - ESP32 is a series of low-cost, low-power system-on-chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth.
+   - An integrated circuit that combines multiple functions, such as a microcontroller, Wi-Fi, and Bluetooth, onto a single chip.
 ---
 
 ## 📫 Let's Connect  
