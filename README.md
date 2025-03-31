@@ -1,5 +1,3 @@
-# About-ME
-
 # 💻 Mohamed Suaif Arsath M N  
 **Electronics hobbyist| PCB Design Enthusiast | Passionate Learner**  
 
